@@ -1,5 +1,4 @@
 # Enhanced Customer Satisfaction through ATM Analytics
-Big Data Tech & App Course Project
 
 
 This project focuses on analyzing Spar Nord Bank's ATM transaction data to gain insights into customer behavior, transaction patterns, and potential cost-saving opportunities. By leveraging data engineering, data analytics, and data visualization techniques, we aim to uncover valuable insights that can inform decision-making processes and optimize the bank's ATM network.
